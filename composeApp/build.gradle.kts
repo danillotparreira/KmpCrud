@@ -66,7 +66,7 @@ kotlin {
 }
 
 android {
-    namespace = "br.com.parreira.kmpcrudsimples"
+    namespace = "br.com.parreira.kmpcrud"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
